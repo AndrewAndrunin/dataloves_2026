@@ -43,6 +43,10 @@
 | [hw16.1.ipynb](m16/hw16.1.ipynb) | Регресія: оренда житла |
 | [hw16.2.ipynb](m16/hw16.2.ipynb) | Класифікація: кредитний ризик |
 
+## Структура
+
+Кожна папка — модуль курсу. Дані лежать поруч із ноутбуками, тож їх можна перезапустити.
+
 ## Запуск
 
 - Python 3.11+: pandas, numpy, matplotlib, seaborn, scipy, statsmodels, scikit-learn, plotly, sqlalchemy, pymysql, python-dotenv.
